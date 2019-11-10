@@ -29,9 +29,9 @@ NGenHiggs	0  -1
 NGenTau		0  -1
 
 ***NRecoVertex        1   -1   ///at least one good vertex
-***NRecoTriggers1     0   -1   ///events must fire the HLT_IsoMu24 trigger
+***NRecoTriggers1     0   -1   
 
-***NRecoMuon1	      1    1   ///exactly 2 muons
+***NRecoMuon1	      1    1   ///exactly 1 muons
 ***NRecoMuon2	      0    0
 
 ***NRecoElectron1        0    0
